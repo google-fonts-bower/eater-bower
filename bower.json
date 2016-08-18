@@ -1,0 +1,17 @@
+{
+    "name": "eater-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Typomondo"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/eater-bower.git"
+    },
+    "description": "Eater font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
